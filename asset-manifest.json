@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio-main-main/static/css/main.e8333622.css",
+    "main.js": "/portfolio-main-main/static/js/main.d3c0305c.js",
+    "static/media/rag_image.webp": "/portfolio-main-main/static/media/rag_image.055d888b399faa4eefba.webp",
+    "static/media/sklearn_genetic_opt.png": "/portfolio-main-main/static/media/sklearn_genetic_opt.15b892adf6368a965618.png",
+    "static/media/kafkaml.png": "/portfolio-main-main/static/media/kafkaml.5ee10c15934deddbebe6.png",
+    "static/media/fastapi_sklearn.png": "/portfolio-main-main/static/media/fastapi_sklearn.0bfaec4cff582eb26751.png",
+    "static/media/churn-prediction-python.webp": "/portfolio-main-main/static/media/churn-prediction-python.9cf37dd4058f1f010497.webp",
+    "static/media/logo.png": "/portfolio-main-main/static/media/logo.1ad62897b3f1288de5ad.png",
+    "index.html": "/portfolio-main-main/index.html",
+    "main.e8333622.css.map": "/portfolio-main-main/static/css/main.e8333622.css.map",
+    "main.d3c0305c.js.map": "/portfolio-main-main/static/js/main.d3c0305c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8333622.css",
+    "static/js/main.d3c0305c.js"
+  ]
+}
